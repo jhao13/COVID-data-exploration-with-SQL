@@ -1,6 +1,6 @@
 # 💻 COVID-19 Data Exploration with SQL & Tableau Dashboard
 
-Analyzing at population infected and death rate based on case numbers and population sizes.
+Analyzing population infected and death rate based on case numbers and population sizes.
 
 ## Tableau Dashboard
 
