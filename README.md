@@ -1,7 +1,6 @@
-# COVID-19 Data Exploration with SQL & Tableau Dashboard
-## Project Goal
+# 💻 COVID-19 Data Exploration with SQL & Tableau Dashboard
 
-Looking at death rates and vaccination rates based on case numbers and population sizes.
+Analyzing at population infected and death rate based on case numbers and population sizes.
 
 ## Tableau Dashboard
 
