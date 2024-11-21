@@ -4,7 +4,7 @@ Analyzing at population infected and death rate based on case numbers and popula
 
 ## Tableau Dashboard
 
-Extracted output from some SQL queries and upload them onto Tableau to create a dashboard.
+Customized SQL queries to obtain desired Excel Tables in Microsoft SQL Server Management Studio upload them into Tableau to create a dashboard.
 
 View: <a href="https://public.tableau.com/app/profile/jiahao.zhang1944/viz/CovidDashboard_17322167129170/Dashboard1?publish=yes">Covid Tableau Dashboard</a>
 
