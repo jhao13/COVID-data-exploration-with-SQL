@@ -13,6 +13,6 @@ View: <a href="https://public.tableau.com/app/profile/jiahao.zhang1944/viz/Covid
 
 ## Dataset
 
-Dataset was provided by <a href="https://github.com/AlexTheAnalyst">Alex The Analyst</a> as part of a <a href="https://github.com/AlexTheAnalyst](https://github.com/AlexTheAnalyst/PortfolioProjects">guided portfolio project series</a>
+Dataset was provided by <a href="https://github.com/AlexTheAnalyst">Alex The Analyst</a> as part of a <a href="https://github.com/AlexTheAnalyst/PortfolioProjects">guided portfolio project series</a>
 
 Date range: Jan 2020 - Oct 2021
